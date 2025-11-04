@@ -1,4 +1,4 @@
-libgit2 - the Git linkable library -786 find before scan test , test test, test, test, test
+libgit2 - the Git linkable library -786 find before scan test , test test, test, test, test, test
 ==================================
 
 [![Build Status](https://secure.travis-ci.org/libgit2/libgit2.png?branch=development)](http://travis-ci.org/libgit2/libgit2)
